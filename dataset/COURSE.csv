@@ -1,0 +1,22 @@
+CourseID,CourseName,DeptNo,InstructorID,ClassesTaken
+CS101,Software enginnering,1,21001,20
+CS102,Artificial Intelligence,1,21002,25
+CS103,Data base management system,1,21003,25
+CS104,machine learning,1,21004,24
+EC101,computer engineering,2,22001,19
+EC102,communication system,2,22002,20
+EC103,Embedded System,2,22003,22
+MC101,Fliuid mechanics,3,23001,21
+MC102,Thermodynamics,3,23002,23
+MC103,Solid Mechanics,3,23003,23
+MC104,Dynamics,3,23004,20
+IT101,computer security,4,24001,20
+IT102,web development,4,24002,25
+IT103,data science,4,24003,35
+ME101,Rock mechanics,5,25001,34
+ME102,Mine survey,5,25002,27
+CE101,Structural engineering,6,26001,25
+CE102,Transportation engineering,6,26002,25
+CH101,chemical reaction engineering,7,27001,20
+CH102,organic chemistry,7,27002,18
+CH103,Biochemical engineering,7,27003,30
